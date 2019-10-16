@@ -18,14 +18,14 @@ a {
   background-color: grey;
 }
 
-nav {
+nav, figcaption {
   text-align: center;
 }
 
-figcaption {
-  font-size: 10px;
-  text-align: center;
-}
+/*figcaption {*/
+/*  font-size: 10px;*/
+/*  text-align: center;*/
+/*}*/
 
 #featured-property p {
   width: 800px;
